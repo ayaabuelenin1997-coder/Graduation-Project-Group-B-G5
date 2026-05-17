@@ -15,14 +15,14 @@ Team Member
 - Assets (Configration -End user)
 - Tax(Configration -End user)(Bonos)
 - Create Controlling Area 
--Define and assign cost centers and profit centers (Bonos).
--Cost Center Accounting for TEC1:
+- Define and assign cost centers and profit centers (Bonos).
+- Cost Center Accounting for TEC1:
 	Post Expense Allocations using Primary Cost Elements (Bonos).
 	Demonstrate Distribution / Assessment Cycles between Cost Centers (Bonos)
--internal Order(Bonos)
--Currency Types(Bonos)
--One Manufacturing Plant (Bonos)
--Reports
+- internal Order(Bonos)
+- Currency Types(Bonos)
+- One Manufacturing Plant (Bonos)
+- Reports
 ## Technologies
 - SAP S/4HANA FI
 - SAP GUI
