@@ -1,4 +1,4 @@
-# SAP S/4HANA FI Graduation Project Group 5 team 5
+# SAP S/4HANA FI Graduation Project Group 5 team B
 
 ##Create Fifth Company 
 
