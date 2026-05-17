@@ -4,6 +4,9 @@
 
 TEC1/TEC2/TEC3/TEC4/TEC5
 ## Main Features
+Data Base
+Presentation
+Team Member
 - GL (Configration -End user)
 - AP (Configration -End user)
 - AR (Configration -End user)
